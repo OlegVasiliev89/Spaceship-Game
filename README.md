@@ -8,10 +8,9 @@ Player Class represents the player’s spaceship. Contains properties like healt
 
 Alien Class, base class for enemies defines position, health, attack behavior. Supports inheritance for specialized bosses.
 
-Bullet Class, represents bullets fired by the player, manages direction, speed, and collision detection
+Bullet Class, represents bullets fired by the player, manages direction, speed, and collision detection.
 
 GameEntity Interface (Planned/Used) shared interface for all game entities (Player, Alien, Bullet), allows easy iteration and collision handling in the game loop.
 
-Encapsulation
 Internal state (e.g., health, position) is kept private and modified via methods.
 
