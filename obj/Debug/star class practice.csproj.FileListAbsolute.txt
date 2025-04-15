@@ -1,0 +1,10 @@
+C:\Users\oleg\Documents\star class practice\star class practice\bin\Debug\star class practice.exe.config
+C:\Users\oleg\Documents\star class practice\star class practice\bin\Debug\star class practice.exe
+C:\Users\oleg\Documents\star class practice\star class practice\bin\Debug\star class practice.pdb
+C:\Users\oleg\Documents\star class practice\star class practice\obj\Debug\star class practice.csproj.AssemblyReference.cache
+C:\Users\oleg\Documents\star class practice\star class practice\obj\Debug\star_class_practice.Properties.Resources.resources
+C:\Users\oleg\Documents\star class practice\star class practice\obj\Debug\star class practice.csproj.GenerateResource.cache
+C:\Users\oleg\Documents\star class practice\star class practice\obj\Debug\star class practice.csproj.CoreCompileInputs.cache
+C:\Users\oleg\Documents\star class practice\star class practice\obj\Debug\star class practice.exe
+C:\Users\oleg\Documents\star class practice\star class practice\obj\Debug\star class practice.pdb
+C:\Users\oleg\Documents\star class practice\star class practice\obj\Debug\star_class_practice.Main.resources
